@@ -1,0 +1,133 @@
+body.body1{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background-color: azure;
+}
+/* esto esta mal hay que añadir class al que estamos usando */
+header.titulo_portada {
+  background-color: #003366;
+    color: white;
+    padding: 1em;
+    text-align: center;
+}
+main {
+    padding: 1em;
+}
+section {
+    margin: 1em 0;
+    padding: 1em;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    border-color: #003366;
+}
+footer {
+    background-color: #003366;
+    color: white;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+}
+#g3 {
+    color: #4181f098;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    /* border: none; */
+    font-weight: bold;
+    font-size: 17px;
+    padding: 1rem 2rem;
+    border: 1px solid #ffffff1f;
+    border-radius: 20px;
+    background: #ebebeb;
+    -webkit-box-shadow: 5px 5px 15px #cccccc,
+                -5px -5px 15px #ffffff;
+    box-shadow: 5px 5px 15px #cccccc,
+                -5px -5px 15px #ffffff;
+    -webkit-transition: box-shadow 0.3s ease-in-out;
+    transition: box-shadow 0.3s ease-in-out;
+    float: left;
+  }
+  
+  #g3:hover {
+    color: #357af0;
+    background: linear-gradient(145deg, #d4d4d4, #fbfbfb);
+    -webkit-box-shadow: 5px 5px 15px #cccccc,
+                -5px -5px 15px #ffffff;
+    box-shadow: 5px 5px 15px #cccccc,
+                -5px -5px 15px #ffffff;
+  }
+  
+  #g3:active {
+    color: #357af0;
+    background: #ebebeb;
+    -webkit-box-shadow: inset 5px 5px 15px #cccccc,
+                inset -5px -5px 15px #ffffff;
+    box-shadow: inset 5px 5px 15px #cccccc,
+                inset -5px -5px 15px #ffffff;
+  }
+ 
+  h1{
+    text-align: center;
+  }
+  h2{
+    text-align: center;
+  }
+ 
+  h1.titulo2{
+    text-align: center;
+  }
+
+  .portada{
+    text-align: center;
+  }
+
+  header h1 {
+    font-size: 55px;
+  }
+
+  header.titulo_portada {
+    text-align: center;
+    
+  }
+
+img.images1{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    right: 50%;
+  
+}
+#g34{
+    border: 1px;
+}
+
+#g32{
+    text-align: center;
+}
+.bonito{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+img.images2{
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  right: 50%;
+top: 1485px;
+
+}
+#g36 {
+    width: 100%;
+    max-width: 800px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(255, 174, 0, 0.253);
+    margin-bottom: 20px;
+    text-align: center;
+    align-items: center;
+    
+  }
